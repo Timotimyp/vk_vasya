@@ -1,0 +1,142 @@
+[
+  {
+    'id': 488240608,
+    'first_name': 'Антон',
+    'last_name': 'Палиенко',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 470375497,
+    'first_name': 'Василиса',
+    'last_name': 'Агеева',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 527591313,
+    'first_name': 'Милана',
+    'last_name': 'Просекова',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 648326745,
+    'first_name': 'Алёна',
+    'last_name': 'Нечипоренкова',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 78326418,
+    'first_name': 'Константин',
+    'last_name': 'Верхоглазов',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 586185654,
+    'first_name': 'Артем',
+    'last_name': 'Семенов',
+    'can_access_closed': True,
+    'is_closed': True
+  },
+  {
+    'id': 97407724,
+    'first_name': 'Аня',
+    'last_name': 'Михайлова',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 484810454,
+    'first_name': 'Антон',
+    'last_name': 'Байда',
+    'can_access_closed': True,
+    'is_closed': True
+  },
+  {
+    'id': 559797951,
+    'first_name': 'Фарахманд',
+    'last_name': 'Хасанов',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 636180392,
+    'first_name': 'Александра',
+    'last_name': 'Наливко',
+    'can_access_closed': True,
+    'is_closed': True
+  },
+  {
+    'id': 647999167,
+    'first_name': 'Виктория',
+    'last_name': 'Захарова',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 375567401,
+    'first_name': 'Алина',
+    'last_name': 'Молокова',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 583797685,
+    'first_name': 'Слава',
+    'last_name': 'Тюленев',
+    'can_access_closed': True,
+    'is_closed': True
+  },
+  {
+    'id': 165160916,
+    'first_name': 'Никита',
+    'last_name': 'Турубанов',
+    'can_access_closed': True,
+    'is_closed': True
+  },
+  {
+    'id': 645955060,
+    'first_name': 'Илья',
+    'last_name': 'Алешин',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 636194282,
+    'first_name': 'Стефания',
+    'last_name': 'Тарасенко',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 348167064,
+    'first_name': 'Ирина',
+    'last_name': 'Сионская',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 422746712,
+    'first_name': 'Рома',
+    'last_name': 'Назаренко',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 736873012,
+    'first_name': 'Андрей',
+    'last_name': 'Золотарёв',
+    'can_access_closed': True,
+    'is_closed': False
+  },
+  {
+    'id': 526852858,
+    'first_name': 'Лиза',
+    'last_name': 'Грехова',
+    'can_access_closed': True,
+    'is_closed': False
+  }
+]
